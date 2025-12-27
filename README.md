@@ -14,7 +14,7 @@
 
 ## Summary
 
-Versatile technology professional with **25+ years of experience** in software development, API architecture, and technical leadership. Proven track record of building scalable solutions, leading cross-functional teams, and driving digital transformation initiatives. Expert in API design, cloud infrastructure (AWS), and agile methodologies. Successfully delivered projects for major enterprises including Cielo, Natura, Banco Original, Rede D'Or, and Localiza.
+Versatile technology professional with **28 years of experience** in software development, API architecture, and technical leadership. Proven track record of building scalable solutions, leading cross-functional teams, and driving digital transformation initiatives. Expert in API design, cloud infrastructure (AWS), and agile methodologies. Successfully delivered projects for major enterprises including Cielo, Natura, Banco Original, Rede D'Or, and Localiza.
 
 ---
 
@@ -65,11 +65,12 @@ Versatile technology professional with **25+ years of experience** in software d
 
 ---
 
-### CTO
-**Aviso.Vip** | Jan 2023 – Feb 2025 | Campinas, SP
+### CTO & Co-founder
+**Aviso.Vip** *(Startup - Closed)* | Jan 2023 – Dec 2023 | Campinas, SP
 
-- Architected permission-based communication platform
-- Managed technology stack and development team
+- Co-founded permission-based communication platform startup
+- Architected technology stack and led development team
+- Startup discontinued due to market conditions
 
 ---
 
