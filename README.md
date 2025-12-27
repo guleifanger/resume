@@ -45,13 +45,29 @@ Versatile technology professional with **28 years of experience** in software de
 
 ---
 
-### COO & Co-founder
-**WeJobs Brasil** | Nov 2024 – Present | Campinas, SP
+### Founder & CEO
+**Simples Media** | Jul 2022 – Present | São Paulo, SP
 
+*Digital products company focused on link management and communication solutions*
+
+- Founded and lead technology company with two active products
+- **[Simples Link](https://link.simples.media)** – Full-featured link management platform available in 3 languages (EN/PT/ES), 100% operational
+- **[Simples Connect](https://connect.simples.media)** – Communication platform currently in MVP phase
+- Manage end-to-end product development, from ideation to deployment
+- Handle cloud infrastructure, DevOps, and technical architecture
+
+---
+
+### COO & Co-founder
+**WeJobs Brasil** *(Pre-Seed Stage)* | Nov 2024 – Present | Campinas, SP
+
+*[wejobs.com.br](https://wejobs.com.br) – Job matching platform entering pre-seed funding round*
+
+- Co-founded HR tech startup focused on job matching and recruitment automation
 - Lead development of marketing automation systems and growth strategies
 - Manage cloud infrastructure on AWS
 - Build integrations with AI, cloud storage, and third-party APIs
-- Focus on user acquisition and product scalability
+- Drive user acquisition and product scalability for funding stage
 
 ---
 
@@ -178,6 +194,8 @@ Versatile technology professional with **28 years of experience** in software de
 ## Key Achievements
 
 - 🚀 **WhatsApp Pay Pioneer:** Led world-first implementation with Sensedia and Cielo
+- 🏢 **Entrepreneur:** Founded Simples Media with 2 active products (Simples Link & Simples Connect)
+- 💼 **Startup Experience:** Co-founded WeJobs (pre-seed) and Aviso.Vip
 - 📈 **Enterprise Success:** Managed technical relationships with 20+ major Brazilian enterprises
 - ⚡ **Process Excellence:** 50% production time reduction through Kaizen at aerospace supplier
 - 💰 **Cost Optimization:** 70% backup cost reduction through cloud migration
