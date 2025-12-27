@@ -1,14 +1,16 @@
 # Valmir Pradella Ifanger (Gule)
 
-**Senior Software Engineer & Technical Leader**
+**Senior Software Engineer | Technical Leader | CEO**
 
 ---
 
-📍 Campinas, SP - Brazil
-📧 guleifanger@gmail.com
-📱 +55 19 98187-2011
-🔗 [linkedin.com/in/ifanger](https://www.linkedin.com/in/ifanger/)
-💻 [github.com/guleifanger](https://github.com/guleifanger/)
+| | |
+|---|---|
+| 📍 **Location** | Americana, SP - Brazil |
+| 📧 **Email** | guleifanger@gmail.com |
+| 📱 **Phone** | +55 19 98187-2011 |
+| 🔗 **LinkedIn** | [linkedin.com/in/ifanger](https://www.linkedin.com/in/ifanger/) |
+| 💻 **GitHub** | [github.com/guleifanger](https://github.com/guleifanger/) |
 
 ---
 
