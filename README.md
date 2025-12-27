@@ -39,11 +39,22 @@ Versatile technology professional with **28 years of experience** in software de
 
 ## Professional Experience
 
-### IT Manager
-**Ramalhos Brasil** | Feb 2025 – Present | Americana, SP
+### Growth Hacker & IT Manager
+**Ramalhos Brasil / Grupo NAU** | Feb 2025 – Present | Americana, SP
 
-- Lead IT operations and R&D initiatives
-- Drive technology strategy and infrastructure management
+*Brazilian hub for premium Portuguese industrial equipment brands*
+
+**Grupo NAU** is consolidating operations in Brazil to distribute products from three leading Portuguese manufacturers:
+- **[Ramalhos](https://ramalhos.com)** – World leader in industrial bakery ovens since 1930, present in 60+ countries
+- **[Somengil (Multiwasher)](https://somengil.com)** – Industrial washing technology with 2,000+ machines in 30+ countries, 70% water savings
+- **[Jordão](https://jordao.com)** – European leader in commercial refrigeration since 1982, serving Carrefour, Costa Coffee, Sodexo
+
+**Key Responsibilities:**
+- Lead **Growth Hacking** initiatives: paid ads, sales funnels, and marketing automation
+- Build **BI dashboards** using Grafana, Python, and Next.js for data-driven decisions
+- Develop **ETL pipelines** for data transformation into centralized Data Lake
+- Create **AI-powered digital agents** using n8n for workflow automation
+- Manage cloud infrastructure and DevOps operations
 
 ---
 
